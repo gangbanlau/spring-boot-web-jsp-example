@@ -7,4 +7,4 @@ Building and running
     mvn clean spring-boot:run
     
     
-Spring Boot v1.4.1.RELEASE
+Spring Boot v1.5.1.RELEASE
